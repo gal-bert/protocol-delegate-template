@@ -17,6 +17,7 @@
 		0C050E4C28845F8C00B84DDE /* Protocol_Delegate_ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C050E4B28845F8C00B84DDE /* Protocol_Delegate_ExampleTests.swift */; };
 		0C050E5628845F8C00B84DDE /* Protocol_Delegate_ExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C050E5528845F8C00B84DDE /* Protocol_Delegate_ExampleUITests.swift */; };
 		0C050E5828845F8C00B84DDE /* Protocol_Delegate_ExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C050E5728845F8C00B84DDE /* Protocol_Delegate_ExampleUITestsLaunchTests.swift */; };
+		0C050E652884607700B84DDE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C050E642884607700B84DDE /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0C050E5128845F8C00B84DDE /* Protocol Delegate ExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Protocol Delegate ExampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C050E5528845F8C00B84DDE /* Protocol_Delegate_ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol_Delegate_ExampleUITests.swift; sourceTree = "<group>"; };
 		0C050E5728845F8C00B84DDE /* Protocol_Delegate_ExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol_Delegate_ExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0C050E642884607700B84DDE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0C050E3128845F8B00B84DDE /* AppDelegate.swift */,
 				0C050E3328845F8B00B84DDE /* SceneDelegate.swift */,
 				0C050E3528845F8B00B84DDE /* ViewController.swift */,
+				0C050E642884607700B84DDE /* SecondViewController.swift */,
 				0C050E3728845F8B00B84DDE /* Main.storyboard */,
 				0C050E3D28845F8C00B84DDE /* Assets.xcassets */,
 				0C050E3F28845F8C00B84DDE /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				0C050E3628845F8B00B84DDE /* ViewController.swift in Sources */,
 				0C050E3C28845F8B00B84DDE /* Protocol_Delegate_Example.xcdatamodeld in Sources */,
 				0C050E3228845F8B00B84DDE /* AppDelegate.swift in Sources */,
+				0C050E652884607700B84DDE /* SecondViewController.swift in Sources */,
 				0C050E3428845F8B00B84DDE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
